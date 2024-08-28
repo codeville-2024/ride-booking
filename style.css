@@ -1,0 +1,65 @@
+#background {
+  background-image: url("brick.png");
+  width: 100%;
+  height: 100%;
+}
+#header-parent {
+  display: flex;
+  justify-content: space-around;
+}
+ul {
+  font-family: arial;
+  font-style: bold;
+  font-weight: 700;
+}
+#nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+#display {
+  display: flex;
+  justify-content: space-between;
+}
+#button {
+  width: 400px;
+  height: 30px;
+  border-radius: 40px;
+  background-color: whitesmoke;
+  border: none;
+  margin-top: 10px;
+}
+#button1 {
+  background-color: rgb(21, 21, 21);
+  color: white;
+  width: 120px;
+  height: 40px;
+  border-radius: 40px;
+  margin-left: 25px;
+  border: none;
+}
+#home {
+  color: red;
+}
+#texrplus {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+}
+#learn-more {
+  width: 120px;
+  height: 40px;
+  background-color: rgb(21, 21, 21);
+  border-radius: 40px;
+  border: none;
+  color: white;
+  font-family: arial;
+  font-weight: 700;
+}
+p {
+  font-family: arial;
+  font-weight: 700;
+}
