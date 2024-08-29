@@ -16,7 +16,7 @@
   text-align: center;
 }
 #hero-div {
-  align-items: center;
+  align-content: center;
 }
 #div19 {
   display: flex;
