@@ -8,6 +8,27 @@
   display: flex;
   justify-content: space-around;
 }
+#image {
+  font-family: Panchang;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 39.6px;
+  text-align: center;
+}
+#hero-div {
+  align-items: center;
+}
+#div19 {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(240, 240, 240);
+  align-items: center;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+#sportcar {
+  width: 600px;
+}
 ul {
   font-family: arial;
   font-style: bold;
