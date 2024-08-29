@@ -97,13 +97,44 @@ section1 {
   align-items: center;
   border-radius: 10px;
 }
-
+#div18 {
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 30px;
+}
 #div8 {
   display: flex;
   justify-content: space-evenly;
 }
 #line {
   border-bottom: 1px solid gray;
+}
+#div10 {
+  background-color: rgb(240, 240, 240);
+  align-items: center;
+  border-radius: 10px;
+}
+#div11 {
+  background-color: rgb(240, 240, 240);
+  align-items: center;
+  border-radius: 10px;
+}
+
+#div13 {
+  background-color: rgb(240, 240, 240);
+  align-items: center;
+  border-radius: 10px;
+}
+#div14 {
+  background-color: rgb(240, 240, 240);
+  align-items: center;
+  border-radius: 10px;
+}
+#div17 {
+  background-color: rgb(240, 240, 240);
+  align-items: center;
+  border-radius: 10px;
 }
 
 #wheel {
